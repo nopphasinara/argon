@@ -1,0 +1,22 @@
+{
+    "name": "nopphasinara/argon-dashboard-laravel",
+    "description": "Laravel 5.x Front-end preset for argon",
+    "license": "MIT",
+    "homepage": "https://github.com/nopphasinara/argon-dashboard-laravel",
+    "keywords": ["Laravel", "Preset", "Argon"],
+    "require": {
+        "laravel/framework": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelFrontendPresets\\ArgonPreset\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelFrontendPresets\\ArgonPreset\\ArgonPresetServiceProvider"
+            ]
+        }
+    }
+}
