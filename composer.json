@@ -1,6 +1,6 @@
 {
     "name": "nopphasinara/argon-dashboard-laravel",
-    "description": "Laravel 5.x Front-end preset for argon",
+    "description": "Laravel 5+ Front-end preset for argon",
     "license": "MIT",
     "homepage": "https://github.com/nopphasinara/argon-dashboard-laravel",
     "keywords": ["Laravel", "Preset", "Argon"],
